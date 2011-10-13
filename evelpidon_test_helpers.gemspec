@@ -22,4 +22,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "activemodel", ">=3.0"
   s.add_development_dependency "actionpack", ">=3.0"
   s.add_runtime_dependency "activesupport", ">=3.0"
+  s.add_runtime_dependency "mocha"
 end
