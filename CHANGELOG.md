@@ -1,6 +1,6 @@
 # Evelpidon Test Helpers changelog
 
-## 0.2.*
+## 0.2.0 / 2011-10-18
 
 * Modulirization of ActiveModel helpers.
 * "Default model values" test helpers.
