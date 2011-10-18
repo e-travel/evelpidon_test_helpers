@@ -1,5 +1,9 @@
 # Evelpidon Test Helpers changelog
 
+## 0.3.*
+
+* Experimental "test methods" (not yet stable enough to use since their stacktrace is not developer frienly).
+
 ## 0.2.0 / 2011-10-18
 
 * Modulirization of ActiveModel helpers.

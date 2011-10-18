@@ -1,6 +1,15 @@
 module EvelpidonTestHelpers
   module ActiveModel
     module Fixtures
+      module TestMethods
+        # XXX : Experimental! Do not use it yet!
+        def test_valid_fixtures
+          test "valid fixutres" do
+            assert_valid_fixtures
+          end
+        end
+      end
+
       module Assertions
         # Asserts that all the records for the current model under test are valid.
         #
@@ -21,5 +30,6 @@ end
 module ActiveSupport
   class TestCase
     include EvelpidonTestHelpers::ActiveModel::Fixtures::Assertions
+    extend EvelpidonTestHelpers::ActiveModel::Fixtures::TestMethods
   end
 end if defined?(ActiveModel)
