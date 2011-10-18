@@ -3,6 +3,7 @@
 ## 0.2.*
 
 * Modulirization of ActiveModel helpers.
+* "Default model values" test helpers.
 
 ## 0.1.1 / 2011-10-13
 
