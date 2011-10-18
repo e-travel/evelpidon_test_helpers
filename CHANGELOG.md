@@ -1,5 +1,9 @@
 # Evelpidon Test Helpers changelog
 
+## 0.2.*
+
+* Modulirization of ActiveModel helpers.
+
 ## 0.1.1 / 2011-10-13
 
 * (Doc) Better README
