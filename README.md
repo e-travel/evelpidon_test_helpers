@@ -1,4 +1,7 @@
 # Evelpidon Test Helpers for Rails projects
+[![Project Status](http://stillmaintained.com/e-travel/evelpidon_test_helpers.png)](http://stillmaintained.com/e-travel/evelpidon_test_helpers)
+[![Build Status](https://secure.travis-ci.org/e-travel/evelpidon_test_helpers.png)](http://travis-ci.org/e-travel/evelpidon_test_helpers)
+
 
 Collection of various Test::Unit / ActiveSupport::Test helpers, mainly for Rails projects.
 
