@@ -21,6 +21,7 @@ Collection of various Test::Unit / ActiveSupport::Test helpers, mainly for Rails
   * assert_assigns
 * Generic helpers (for example for Date/Time objects) :
   * assert_equal_date
+  * assert_kind_of_boolean
 * [Sunspot mocking](http://timcowlishaw.co.uk/post/3179661158/testing-sunspot-with-test-unit)
 
 ## Installation
