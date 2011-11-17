@@ -1,5 +1,10 @@
 # Evelpidon Test Helpers changelog
 
+## 0.3.0 / 2011-11-17
+
+* Assert kind of boolean.
+* Integration with Travis CI.
+
 ## 0.2.0 / 2011-10-18
 
 * Modulirization of ActiveModel helpers.
