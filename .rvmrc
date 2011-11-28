@@ -1,1 +1,1 @@
-rvm --create @evelpidon_test_helpers
+rvm --create use @evelpidon_test_helpers
