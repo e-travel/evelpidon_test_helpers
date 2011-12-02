@@ -3,6 +3,9 @@
 Gemfile.lock
 pkg/*
 
+# RVM
+.rvmrc
+
 # IntelliJ
 .idea
 *.iml
