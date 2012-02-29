@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "evelpidon_test_helpers"
   s.version     = EvelpidonTestHelpers::VERSION
   s.authors     = ["Nikos Dimitrakopoulos", "Panayotis Matsinopoulos", "Eric Cohen"]
-  s.email       = ["n.dimitrakopoulos@pamediakopes.gr", "p.matsinopoulos@fraudpointer.com", "e.koen@pamediakopes.gr"]
+  s.email       = ["n.dimitrakopoulos@pamediakopes.gr", "p.matsinopoulos@fraudpointer.com", "eirc.eirc@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{Various test helpers for Rails projects}
   s.description = ""
